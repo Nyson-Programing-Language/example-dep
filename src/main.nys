@@ -1,0 +1,4 @@
+imp("main2.nys");
+func(sayGoodbye()) {
+  log("Goodbye");
+}
