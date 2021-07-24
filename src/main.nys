@@ -1,4 +1,4 @@
-imp("main2.nys");
+imp("src/main2.nys");
 func(sayGoodbye()) {
   log("Goodbye");
 }
